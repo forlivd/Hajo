@@ -42,21 +42,21 @@
 
 <br>
 
-### 로그인 / 홈화면
+### ▶ 로그인 / 홈화면
 
-<img src="https://user-images.githubusercontent.com/84622281/231623729-0aed53aa-7fb3-4f75-9118-c7a8cb3b7e2d.png" width="900" height="450"/>
-
-<br>
-
-### 플랜 관리 / 플랜 공유
-
-<img src="https://user-images.githubusercontent.com/84622281/231623800-32c3bf62-d807-4967-806a-46d211136941.png" width="900" height="450"/>
+<img src="https://user-images.githubusercontent.com/84622281/231623729-0aed53aa-7fb3-4f75-9118-c7a8cb3b7e2d.png" width="720" height="350"/>
 
 <br>
 
-### 경쟁전 / 마이페이지 / 다이어리
+### ▶ 플랜 관리 / 플랜 공유
 
-<img src="https://user-images.githubusercontent.com/84622281/231623872-4cca21db-7029-4bf4-b7f6-f439800d7dc2.png" width="900" height="450"/>
+<img src="https://user-images.githubusercontent.com/84622281/231623800-32c3bf62-d807-4967-806a-46d211136941.png" width="720" height="350"/>
+
+<br>
+
+### ▶ 경쟁전 / 마이페이지 / 다이어리
+
+<img src="https://user-images.githubusercontent.com/84622281/231623872-4cca21db-7029-4bf4-b7f6-f439800d7dc2.png" width="720" height="350"/>
 
 <br>
 
@@ -81,9 +81,9 @@
 
 ### 플랜 관리
 
-<img src="https://user-images.githubusercontent.com/84622281/231627523-2529bef3-e37e-44bd-94d5-b4d5443afe73.jpg" width="900" height="450"/>
+<img src="https://user-images.githubusercontent.com/84622281/231627523-2529bef3-e37e-44bd-94d5-b4d5443afe73.jpg" width="720" height="350"/>
 
-<img src="https://user-images.githubusercontent.com/84622281/231627419-2f836ada-6085-45ed-b09c-10deda308dba.png" width="900" height="450"/>
+<img src="https://user-images.githubusercontent.com/84622281/231627419-2f836ada-6085-45ed-b09c-10deda308dba.png" width="720" height="350"/>
 
 ```
 대, 중, 소, 태스크로 나누어 플랜을 등록하고 관리할 수 있도록 구현하였습니다. 상위 분류에 여러 플랜이 속할 수 있습니다.
@@ -96,7 +96,7 @@
 
 ### 다이어리
 
-<img src="https://user-images.githubusercontent.com/84622281/231629099-80387794-38f6-47a0-ab3e-aab60102f519.png" width="900" height="450"/>
+<img src="https://user-images.githubusercontent.com/84622281/231629099-80387794-38f6-47a0-ab3e-aab60102f519.png" width="720" height="350"/>
 
 ```
 빈 화면으로 시작하여, 페이지 별로 이미지 또는 텍스트를 이동, 추가, 수정, 삭제할 수 있습니다. 
